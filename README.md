@@ -87,6 +87,7 @@ def Forge(r, s):
 ```
 # 实验结果
 ![image](https://github.com/jlwdfq/project-19/assets/129512207/f1413823-2b4d-4e80-bff4-ff562eceb7ba)
+
 运行速度： 小于0.01s
 # 小组分工
 戴方奇 202100460092 单人组完成project19
